@@ -1,0 +1,20 @@
+# React
+node_modules/
+dist/
+
+# ASP.NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
